@@ -2,6 +2,9 @@
 Analysis of various crops
 # Agricultural Crop Analysis
 ![Alt crop](cropananlysis.jpg)
+![Alt stats](statistics_crop.png)
+![Alt result](result_crop.png)
+
 
 *This repository contains the code and data used for Analysis of various Agricultural Crops.*
 
